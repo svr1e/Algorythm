@@ -1,1 +1,1 @@
-# Algorythm
+# Calculator
