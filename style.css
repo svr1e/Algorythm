@@ -1,0 +1,280 @@
+.calculatorbody {
+    padding: 2px;
+    height: 500px;
+    width: 380px;
+    border-color: black;
+    border-style: solid; 
+    border-radius: 10px;
+    position: relative;
+    left: 430px;
+    bottom: -12px;
+    background-color: black;
+}
+.calculatorbody #display
+{
+    height: 75px;
+    width: 355px;
+    background-color: bisque;
+    position: relative;
+    left: 10px;
+    bottom: -8px;
+    border-radius: 3px;
+    overflow:auto;
+    overflow-y: hidden;
+
+}
+.calculatorbody #display #displaynumber
+{
+    position: relative;
+    left:0px;
+    font-size: 40px;
+    padding: auto;
+    bottom: 12px;
+}
+
+.calculatorbody  #n7
+{
+    position: relative;
+    bottom: -80px;
+    left: 12px;
+    height: 45px;
+    width: 80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n8
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 19px;
+    bottom: -80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n9
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 26px;
+    bottom: -80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #om
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 33px;
+    bottom: -80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n4
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 12px;
+    bottom: -100px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n5
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 19px;
+    bottom: -100px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n6
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 26px;
+    bottom: -100px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #omi
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 33px;
+    bottom: -100px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n1
+{
+    position: relative;
+    bottom: -120px;
+    left: 12px;
+    height: 45px;
+    width: 80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n2
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 19px;
+    bottom: -120px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #n3
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 26px;
+    bottom: -120px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #oa
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 33px;
+    bottom: -120px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+
+.calculatorbody  #n0
+{
+    position: relative;
+    bottom: -140px;
+    left: 12px;
+    height: 45px;
+    width: 80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #po
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 19px;
+    bottom: -140px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #back
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 26px;
+    bottom: -140px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #od
+{
+    position: relative;
+    height: 45px;
+    width: 80px;
+    left: 33px;
+    bottom: -140px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #clean
+{
+    position: relative;
+    bottom: -160px;
+    left: 12px;
+    height: 75px;
+    width: 80px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #open
+{
+    position: relative;
+    height: 75px;
+    width: 80px;
+    left: 19px;
+    bottom: -160px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+.calculatorbody  #close
+{
+    position: relative;
+    height: 75px;
+    width: 80px;
+    left: 26px;
+    bottom: -160px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+    
+}
+.calculatorbody  #equal
+{
+    position: relative;
+    height: 75px;
+    width: 80px;
+    left: 33px;
+    bottom: -160px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    font-size: x-large;
+}
+button:hover
+{
+    background-color:aqua;
+}
